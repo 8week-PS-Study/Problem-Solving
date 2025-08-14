@@ -1,4 +1,4 @@
-package ProblemSolving.BOJ;
+package week1;
 
 import java.io.*;
 import java.util.ArrayList;
