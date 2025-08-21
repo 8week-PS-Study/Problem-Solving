@@ -5,7 +5,7 @@ import java.util.StringTokenizer;
  
  
 public class Main {
-	static int[] arr;
+  static int[] arr;
   static int count, a, b;
     
 	public static void main(String[] args) throws IOException {
