@@ -1,4 +1,4 @@
-package study.dd;
+package week2;
 
 import java.io.BufferedReader;
 import java.io.IOException;

@@ -1,5 +1,4 @@
-package study.dd;
-
+package week2;
 import java.util.Scanner;
 
 public class Juhwan_1182 {
