@@ -17,7 +17,7 @@
 - [행복 유치원](https://www.acmicpc.net/problem/13164) - 최영환 발표
 - [한 줄로 서기](https://www.acmicpc.net/problem/1138)
 - [단지번호붙이기](https://www.acmicpc.net/problem/2667) - 안주환 발표
-## 3주차
+## 3주차 (25.08.22 - 25.08.28)
 - [두 용액](https://www.acmicpc.net/problem/2470)
 - [가장 긴 증가하는 부분 수열](https://www.acmicpc.net/problem/11053)
 - [1, 2, 3 더하기 2](https://www.acmicpc.net/problem/12101)
