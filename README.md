@@ -13,11 +13,15 @@
 - [괄호의 값](https://www.acmicpc.net/problem/2054) - 안주환 발표
 - [보물섬](https://www.acmicpc.net/problem/2589) - 김강산 발표
 ## 2주차 (25.08.15 - 25.08.21)
-- [부분수열의 합](https://www.acmicpc.net/problem/1182)
-- [행복 유치원](https://www.acmicpc.net/problem/13164)
+- [부분수열의 합](https://www.acmicpc.net/problem/1182) - 이지현 발표
+- [행복 유치원](https://www.acmicpc.net/problem/13164) - 최영환 발표
 - [한 줄로 서기](https://www.acmicpc.net/problem/1138)
-- [단지번호붙이기](https://www.acmicpc.net/problem/2667)
+- [단지번호붙이기](https://www.acmicpc.net/problem/2667) - 안주환 발표
 ## 3주차
+- [두 용액](https://www.acmicpc.net/problem/2470)
+- [가장 긴 증가하는 부분 수열](https://www.acmicpc.net/problem/11053)
+- [1, 2, 3 더하기 2](https://www.acmicpc.net/problem/12101)
+- [카드 합체 놀이](https://www.acmicpc.net/problem/15903)
 ## 4주차
 ## 5주차
 ## 6주차
