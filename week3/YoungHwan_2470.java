@@ -1,7 +1,7 @@
 import java.io.*;
 import java.util.*;
 
-public class Main {
+public class YoungHwan_2470 {
 
     private static int n;
     private static int[] nums, answer;
