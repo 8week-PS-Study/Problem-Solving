@@ -1,7 +1,7 @@
 import java.io.*;
 import java.util.*;
 
-public class Main {
+public class YoungHwan_11053 {
 
     private static int n;
     private static int max = Integer.MIN_VALUE;
